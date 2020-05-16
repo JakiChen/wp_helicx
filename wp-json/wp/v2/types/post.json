@@ -1,0 +1,1 @@
+{"description":"","hierarchical":false,"name":"\u6295\u7a3f","slug":"post","taxonomies":["category","post_tag"],"rest_base":"posts","_links":{"collection":[{"href":"https:\/\/wp.helixes.co\/wp-json\/wp\/v2\/types"}],"wp:items":[{"href":"https:\/\/wp.helixes.co\/wp-json\/wp\/v2\/posts"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
